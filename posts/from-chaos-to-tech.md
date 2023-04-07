@@ -3,11 +3,12 @@ title: 'From Chaos to Tech: My Journey'
 date: '2023-03-10'
 ---
 
-In July 2021, I was a homeless single mother, working 3 part-time jobs, and living a highly chaotic life. Due to the COVID pandemic, **I'd lost two jobs** the year before; I only got one of those jobs back, and I'd secured another job to replace the second lost job. ***It still wasn't enough***. I needed a change.
+In July 2021, I was a homeless single mother, working 3 part-time jobs, and living a highly chaotic life. Due to the COVID pandemic, **I'd lost two jobs** the year before; I only got one of those jobs back, and I'd secured another job to replace the second lost job. ***It still wasn't enough.*** I needed a change. And the change essentially fell in my lap; sometime in August 2021, after driving past Urban City Codes one busy day, I went home, reviewed their site, and submitted my application for tech courses.
 
-Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
+My initial interest was in cybersecurity. Having had my own personal run-in with cybersecurity when I successfully manually removed a virus from my laptop, I'd developed a deep interest in that area. However, after being encouraged to try out the pre-coding bootcamp in which I learned HTML and CSS, I decided my interests were with coding.
 
-- **Static Generation** is the pre-rendering method that generates the HTML at **build time**. The pre-rendered HTML is then _reused_ on each request.
-- **Server-side Rendering** is the pre-rendering method that generates the HTML on **each request**.
+Fast forward through a 16-week bootcamp in which I learned to build an **entire web application** using HTML, CSS, and JavaScript, and I have ***three*** certifications. 
 
-Importantly, Next.js lets you **choose** which pre-rendering form to use for each page. You can create a "hybrid" Next.js app by using Static Generation for most pages and using Server-side Rendering for others.
+But it doesn't end for me. I am constantly learning new skills and adding more tools to my toolbag. I'm currently teaching myself **Python** and **ReactJS**.
+
+It's been an amazing ride.
