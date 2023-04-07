@@ -7,7 +7,11 @@ In July 2021, I was a homeless single mother, working 3 part-time jobs, and livi
 
 My initial interest was in cybersecurity. Having had my own personal run-in with cybersecurity when I successfully manually removed a virus from my laptop, I'd developed a deep interest in that area. However, after being encouraged to try out the pre-coding bootcamp in which I learned HTML and CSS, I decided my interests were with coding.
 
-Fast forward through a 16-week bootcamp in which I learned to build an **entire web application** using HTML, CSS, and JavaScript, and I have ***three*** certifications. 
+Fast forward through a 16-week bootcamp in which I learned to build an **entire web application** using HTML, CSS, and JavaScript, and I have ***three*** certifications:
+
+- **HTML & CSS**
+- **HTML5 Application Development**
+- **JavaScript**
 
 But it doesn't end for me. I am constantly learning new skills and adding more tools to my toolbag. I'm currently teaching myself **Python** and **ReactJS**.
 
